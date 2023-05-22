@@ -11,9 +11,10 @@
 ## Program Walk-through
 **1.**  Initial look of website.
 
-<img width="1122" alt="image" src="https://user-images.githubusercontent.com/116442206/236633856-e120699d-65b9-4605-9132-cc7e8e70fbf6.png">
+<img width="1119" alt="image" src="https://github.com/ddlhg/Random_choice/assets/116442206/0514aede-3dfb-49a7-b88c-a7d70416e721">
+
 
 
 **2.** After the three numbers are entered and submmitted for calculations, all the results will be displayed at once.
 
-<img width="1122" alt="image" src="https://user-images.githubusercontent.com/116442206/236633921-d0543f60-c6a1-4a16-95bd-a0122ec929eb.png">
+<img width="1117" alt="image" src="https://github.com/ddlhg/Random_choice/assets/116442206/0566852d-f940-4d40-b05f-1e0e68f8e079">
