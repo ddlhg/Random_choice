@@ -1,0 +1,204 @@
+* {
+    font-family: sans-serif;
+    /*margin: 0;
+    padding: 0;
+    box-sizing: border-box;*/
+}
+
+body {
+    background-color: black;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+
+/*CONTAINERS*/
+.col-sm-4{
+    margin-top: 30px;
+}
+
+.container{
+    height: auto;
+    width: auto;
+    text-align: center;
+    padding: 20px;
+    border-radius: 2.5rem; 
+}
+
+/*RESTAURANT*/
+.container, #containerRestaurant{
+    background-color: rgb(223, 165, 223);
+    border: 5px solid #800080;
+}
+
+#containerRestaurant h1{
+    margin-bottom: 1rem;
+    color: rgb(114, 2, 114);
+}
+
+#btnRestaurant{
+    height: 50px;
+    width: 100px;
+    font-size: 1.5rem;
+    border: none;
+    border-radius: 1rem;
+    background-color: purple;
+    color: white;
+    cursor: pointer;
+    margin-bottom: 1rem;
+}
+
+#outputRestaurant {
+    margin: 10px;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+}
+
+/*PLACE*/
+.container, #containerPlace{
+    background-color: #B3C87A;
+    border: 5px solid darkgreen;
+}
+
+#containerPlace h1{
+    margin-bottom: 1rem;
+    color: #347A2A;
+}
+
+#btnPlace{
+    height: 50px;
+    width: 100px;
+    font-size: 1.5rem;
+    border: none;
+    border-radius: 1rem;
+    background-color: #347A2A;
+    color: white;
+    cursor: pointer;
+    margin-bottom: 1rem;
+}
+
+#outputPlace {
+    margin: 10px;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+}
+
+/*NUMBERS*/
+.container, #containerNumber{
+    background-color: #F8A1D1;
+    border: 5px solid #822659;
+}
+
+#containerNumber h1{
+    margin-bottom: 1rem;
+    color: #B34180;
+}
+
+#btnNumber{
+    height: 50px;
+    width: 100px;
+    font-size: 1.5rem;
+    border: none;
+    border-radius: 1rem;
+    background-color: #E36BAE;
+    color: white;
+    cursor: pointer;
+    margin-bottom: 1rem;
+}
+
+#outputNumber {
+    margin: 10px;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+}
+
+/*FOOD*/
+.container, #containerFood{
+    background-color: #FFD56F;
+    border: 5px solid #F97B22;
+}
+
+#containerFood h1{
+    margin-bottom: 1rem;
+    color: #F97B22;
+}
+
+#btnFood{
+    height: 50px;
+    width: 100px;
+    font-size: 1.5rem;
+    border: none;
+    border-radius: 1rem;
+    background-color: #F97B22;
+    color: white;
+    cursor: pointer;
+    margin-bottom: 1rem;
+}
+
+#outputFood {
+    margin: 10px;
+    font-size: 40px;
+    color: white;
+}
+
+/*COLOR*/
+.container, #containerColor{
+    background-color: #9BA3EB;
+    border: 5px solid #242F9B;
+}
+
+#containerColor h1{
+    margin-bottom: 1rem;
+    color: #646FD4;
+}
+
+#btnColor{
+    height: 50px;
+    width: 100px;
+    font-size: 1.5rem;
+    border: none;
+    border-radius: 1rem;
+    background-color: #242F9B;
+    color: white;
+    cursor: pointer;
+    margin-bottom: 1rem;
+}
+
+#outputColor {
+    margin: 10px;
+    font-size: 40px;
+    color: white;
+}
+
+/*NAME*/
+.container, #containerName{
+    background-color: rgb(165, 207, 223);
+    border: 5px solid #004280;
+}
+
+#containerName h1{
+    margin-bottom: 1rem;
+    color: rgb(2, 75, 114);
+}
+
+#btnName{
+    height: 50px;
+    width: 100px;
+    font-size: 1.5rem;
+    border: none;
+    border-radius: 1rem;
+    background-color: rgb(0, 45, 128);
+    color: white;
+    cursor: pointer;
+    margin-bottom: 1rem;
+}
+    
+#outputName {
+    margin: 10px;
+    font-size: 40px;
+    color: white;
+}
+
